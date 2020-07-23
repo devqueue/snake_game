@@ -9,5 +9,3 @@ class Apple():
       self.x = random.randint(0, Config.CELLWIDTH - 1)
       self.y = random.randint(0, Config.CELLHEIGHT - 1)
 
-#hi
-#hello
