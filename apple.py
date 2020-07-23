@@ -8,4 +8,3 @@ class Apple():
   def setNewLocation(self):
       self.x = random.randint(0, Config.CELLWIDTH - 1)
       self.y = random.randint(0, Config.CELLHEIGHT - 1)
-
