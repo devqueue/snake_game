@@ -165,7 +165,7 @@ class Game():
           degrees2 += 2  # rotate by 7 degrees each frame
 
   def run(self):
-    self.showStartScreen()
+    #self.showStartScreen()
 
     while True:
       self.gameLoop()
